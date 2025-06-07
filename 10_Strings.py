@@ -1,3 +1,4 @@
+#----------------STRINGS-----------------------------
 #Anything that is enclosed within single or double quotation mark is called as string.
 name = "Debjit"
 friend = "Rohan"

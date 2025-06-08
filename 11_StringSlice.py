@@ -11,5 +11,6 @@ print(fruit[:]) #O/P -> Mango
 
 
 names ="John,Mary"
-print(len(names)) #Calculate length of string
+#Calculate length of string
+print(len(names)) 
 print(names[0:2])
